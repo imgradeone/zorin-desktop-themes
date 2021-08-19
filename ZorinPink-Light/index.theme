@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=ZorinPink-Light
+Comment=The light desktop theme with pink highlights for Zorin OS
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=ZorinPink-Light
+MetacityTheme=ZorinPink-Light
+IconTheme=ZorinPink-Light
+CursorTheme=Adwaita
+ButtonLayout=:minimize,maximize,close
